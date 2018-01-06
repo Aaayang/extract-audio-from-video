@@ -1,0 +1,23 @@
+{
+  "name": "extract-audio-from-video",
+  "version": "1.0.0",
+  "description": "从视频中提取音频",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaayang/extract-audio-from-video.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aaayang/extract-audio-from-video/issues"
+  },
+  "homepage": "https://github.com/Aaayang/extract-audio-from-video#readme",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
